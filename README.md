@@ -2,8 +2,9 @@
 # Testing_Features
 
 
-| Variable      |Experimental Technique    |
-| ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Variable                        |Experimental Technique    			 |
+| -------------                   |:-------------:				 |
+|MMP Utility                      |MMP celavable fluorescent substrates		 |
+|Cytoskeleton polymerization      |F-Actin and Tubulin FRAP     		 |
+|Cell adhesion                    |Cell protrussion - matrix slip ratio          |
+|Cell Contractility               | Traction force microscopy			 |
